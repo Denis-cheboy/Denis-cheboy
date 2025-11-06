@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Denis Abonda, a software engineer based in nairobi,kenya who is passionate about making contributing to open-source more approachable, creating technology to evaluate people and building communities.Some technologies i enjoy working with includes <b>ReactJS</b>(JavaScript APIs),<b>NodeJS</b> <b>GraphQL</b><br/><br>Im looking to collaborate on software development,testing and deployment related tasks<br>Im currently learning <b>AWS<b/> and <b>Containarization<b/><br/><br>Ask me about MERN stack development <br>Fun Fact- i am lazy but smart (..)
+Im Denis Abonda, a software engineer based in nairobi,kenya who is passionate about making contributing to open-source more approachable, creating technology to evaluate people and building communities.Some technologies i enjoy working with includes <b>ReactJS</b>(JavaScript APIs),<b>NodeJS</b> <b>GraphQL</b><br/><br>Im looking to collaborate on software development,testing and deployment related tasks<br>Im currently learning <b>AWS<b/> and <b>Containarization<b/><br/><br>Ask me about MERN stack development
 
 
 ## 🌐 Socials:
